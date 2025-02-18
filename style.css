@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.photo {
+    border: solid 2px;
+    border-radius: 10px;
+    position: relative;
+    top: .70rem;
+    left: 70%
+
+}
+
+h1 {
+   background-color: blue;
+}
